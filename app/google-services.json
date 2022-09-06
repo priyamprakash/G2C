@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344520778741",
+    "project_id": "gtoc-da949",
+    "storage_bucket": "gtoc-da949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344520778741:android:bca2440ad73301116f36bc",
+        "android_client_info": {
+          "package_name": "com.priyam.gtoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344520778741-de536q4ka9ffajvd8jrbhva5kfhlm9ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoG6ykJkq6It4VqEFSTTioYwdFSCaIA_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344520778741-de536q4ka9ffajvd8jrbhva5kfhlm9ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
