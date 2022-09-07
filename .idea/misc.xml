@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/asus/Desktop/GITHUB PROJECTS/G2C/app/src/main/res/drawable/shadow.xml" value="0.1" />
+        <entry key="..\:/Users/asus/Desktop/GITHUB PROJECTS/G2C/app/src/main/res/layout/activity_booking_detail.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/asus/Desktop/GITHUB PROJECTS/G2C/app/src/main/res/layout/activity_check.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/asus/Desktop/GITHUB PROJECTS/G2C/app/src/main/res/layout/activity_check_list.xml" value="0.23229166666666667" />
         <entry key="..\:/Users/asus/Desktop/GITHUB PROJECTS/G2C/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/asus/Desktop/GITHUB PROJECTS/G2C/app/src/main/res/layout/content_check_list.xml" value="0.23229166666666667" />
       </map>
     </option>
   </component>
