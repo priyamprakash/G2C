@@ -196,7 +196,26 @@
 
 
         </androidx.cardview.widget.CardView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:background="#FFFFFF"
+            android:orientation="vertical">
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/roboto_light"
+                android:text="Frequently asked questions"
+                android:textColor="#3E3B3B"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
 
         <androidx.cardview.widget.CardView
             android:id="@+id/card_view3"
@@ -596,7 +615,6 @@
                             android:textColor="#3E3B3B"
                             android:textSize="16dp"
                             android:layout_marginHorizontal="20dp"
-
                             />
 
                     </LinearLayout>
@@ -607,6 +625,8 @@
 
             </androidx.cardview.widget.CardView>
         </LinearLayout>
+
+
 
     </LinearLayout>
 </ScrollView>
