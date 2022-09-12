@@ -16,8 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void checkList(View view) {
-        Intent i = new Intent(MainActivity.this , Check_List.class);
-        startActivity(i);
+
 
 
     }
